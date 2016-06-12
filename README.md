@@ -27,7 +27,7 @@
 	5) Tourism Boards
 	6) Local Business
 
-## Why Volere?
+## Why VOLERE?
 
 	We used VOLERE for requirements specification, to
 	identify specific sections:
