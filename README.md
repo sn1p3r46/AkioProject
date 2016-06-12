@@ -1,6 +1,10 @@
-# Requirements Engineering Project:
+# Requirements Engineering Project
 
+<p align="center">
+  <img src="RE.png">
+</p>
 -----
+
 
 **AUTHORS:**
 
