@@ -63,6 +63,17 @@
 	- UML Class-Diagram (leaf nodes of Goal Diagram)
 
 
+## Why we did not make use of Use-Case Diagrams?
+
+	The Use-Case diagrams are useful to haev a clear idea of
+	what the stakeholders can do within the system. However, 
+	we already had a clear picture of this from the goal model 
+	and from the requirements organised by stakeholder. 
+	We opted for the class diagram instead, since it gave us 
+	a better overview of how the different pieces of the system 
+	connected.
+
+
 ## Requirements Revision and Pre-Validation:
 
 	After the Goal Oriented Analysis we decided to continue
