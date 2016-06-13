@@ -65,12 +65,12 @@
 
 ## Why we did not make use of Use-Case Diagrams?
 
-	The Use-Case diagrams are useful to haev a clear idea of
-	what the stakeholders can do within the system. However, 
-	we already had a clear picture of this from the goal model 
-	and from the requirements organised by stakeholder. 
-	We opted for the class diagram instead, since it gave us 
-	a better overview of how the different pieces of the system 
+	The Use-Case diagrams are useful to have a clear idea of
+	what the stakeholders can do within the system. However,
+	we already had a clear picture of this from the goal model
+	and from the requirements organized by stakeholder.
+	We opted for the class diagram instead, since it gave us
+	a better overview of how the different pieces of the system
 	connected.
 
 
@@ -125,8 +125,22 @@
 	The elicitation of Security requirements have been
 	formalized using (Mis)Use Cases Diagrams, coupled
 	with a natural language description in order to get
-	completeness and avoid any ambiguity.
+	completeness and avoid any ambiguity. It is easy to
+  understand also from non technical people and
+  an affirmed standard. We followed
 
+## Why we did not make use of Abuse Cases Diagrams?
+
+  We did not use those kind of diagrams because there
+  are not untrusted external 3rd party actors managing
+  sensible data or sensible system procedures.
+
+## Why we did not make use of Secure Tropos?
+
+  Because we had clear who are the legitimate owners of the
+  service and who is able to provide the service. We decided
+  to provide the minimal needed information to every actors
+  to use the properly the service.
 
 ## Privacy and Legal Compliance
 
